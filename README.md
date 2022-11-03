@@ -1,1 +1,2 @@
 # archive
+b369419c537befd93c88cf5f5028ed090da4925b95720d9e277ab9e5799f7fea  singularity-container_3.8.7_amd64.deb
